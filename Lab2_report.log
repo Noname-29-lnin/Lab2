@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.10)  9 APR 2025 09:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.10)  9 APR 2025 15:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1164,7 +1164,7 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
 
 )
 
-<section/pic/bk_name_en.png, id=189, 923.8515pt x 129.8451pt>
+<section/pic/bk_name_en.png, id=194, 923.8515pt x 129.8451pt>
 File: section/pic/bk_name_en.png Graphic file (type png)
 <use section/pic/bk_name_en.png>
 Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 92.
@@ -1181,7 +1181,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-19.54103pt}.
 
-<section/pic/logo_DEE.png, id=190, 76.03406pt x 75.28125pt>
+<section/pic/logo_DEE.png, id=195, 76.03406pt x 75.28125pt>
 File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
 Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 92.
@@ -1191,13 +1191,13 @@ Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 92.
 
 
 (section/EX1_report.tex
-<section/EX1/INV/EX1_INV_schematic.png, id=226, 450.9347pt x 406.51875pt>
+<section/EX1/INV/EX1_INV_schematic.png, id=236, 450.9347pt x 406.51875pt>
 File: section/EX1/INV/EX1_INV_schematic.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_schematic.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_schematic.png  used on input l
 ine 28.
 (pdftex.def)             Requested size: 290.22107pt x 261.64742pt.
-<section/EX1/INV/EX1_INV_symbol.png, id=227, 440.24475pt x 341.47575pt>
+<section/EX1/INV/EX1_INV_symbol.png, id=237, 440.24475pt x 341.47575pt>
 File: section/EX1/INV/EX1_INV_symbol.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_symbol.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_symbol.png  used on input line
@@ -1237,13 +1237,13 @@ s been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.41 
       <./section/EX1/INV/EX1_INV_schematic.png>]
-<section/EX1/INV/EX1_INV_DCanalysis_schematic.png, id=234, 685.3605pt x 395.678
-25pt>
+<section/EX1/INV/EX1_INV_DCanalysis_schematic.png, id=244, 807.015pt x 545.7890
+6pt>
 File: section/EX1/INV/EX1_INV_DCanalysis_schematic.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_DCanalysis_schematic.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_DCanalysis_schematic.png  used
  on input line 64.
-(pdftex.def)             Requested size: 290.22107pt x 167.55424pt.
+(pdftex.def)             Requested size: 290.22107pt x 196.2757pt.
 
 Overfull \hbox (54.72046pt too wide) in paragraph at lines 70--77
  [][] 
@@ -1286,20 +1286,20 @@ s been already used, duplicate ignored
 l.79 
       <./section/EX1/INV/EX1_INV_symbol.png> <./section/EX1/INV/EX1_INV_DCanaly
 sis_schematic.png>]
-<section/EX1/INV/EX1_INV_DCanalysis_vtc.png, id=245, 1154.51324pt x 439.6425pt>
+<section/EX1/INV/EX1_INV_DCanalysis_vtc.png, id=255, 1154.51324pt x 439.6425pt>
 
 File: section/EX1/INV/EX1_INV_DCanalysis_vtc.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_DCanalysis_vtc.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_DCanalysis_vtc.png  used on in
 put line 82.
 (pdftex.def)             Requested size: 290.22107pt x 110.5141pt.
-<section/EX1/INV/EX1_INV_Trans_schematic.png, id=246, 662.475pt x 428.802pt>
+<section/EX1/INV/EX1_INV_Trans_schematic.png, id=256, 662.475pt x 428.802pt>
 File: section/EX1/INV/EX1_INV_Trans_schematic.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_Trans_schematic.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_Trans_schematic.png  used on i
 nput line 91.
 (pdftex.def)             Requested size: 290.22107pt x 187.84904pt.
-<section/EX1/INV/EX1_INV_waveform.png, id=247, 602.25pt x 376.40625pt>
+<section/EX1/INV/EX1_INV_waveform.png, id=257, 602.25pt x 376.40625pt>
 File: section/EX1/INV/EX1_INV_waveform.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_waveform.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_waveform.png  used on input li
@@ -1348,13 +1348,13 @@ s been already used, duplicate ignored
 l.126 
        <./section/EX1/INV/EX1_INV_DCanalysis_vtc.png> <./section/EX1/INV/EX1_IN
 V_Trans_schematic.png> <./section/EX1/INV/EX1_INV_waveform.png>]
-<section/EX1/INV/EX1_INV_Tr_Waveform.png, id=256, 1155.1155pt x 441.44925pt>
+<section/EX1/INV/EX1_INV_Tr_Waveform.png, id=266, 1155.1155pt x 441.44925pt>
 File: section/EX1/INV/EX1_INV_Tr_Waveform.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_Tr_Waveform.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_Tr_Waveform.png  used on input
  line 129.
 (pdftex.def)             Requested size: 241.84843pt x 92.42416pt.
-<section/EX1/INV/EX1_INV_Tr_Cal.png, id=257, 1154.51324pt x 551.05875pt>
+<section/EX1/INV/EX1_INV_Tr_Cal.png, id=267, 1154.51324pt x 551.05875pt>
 File: section/EX1/INV/EX1_INV_Tr_Cal.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_Tr_Cal.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_Tr_Cal.png  used on input line
@@ -1365,13 +1365,13 @@ Overfull \hbox (2.61049pt too wide) in paragraph at lines 128--134
 []$[]$ $[]$
  []
 
-<section/EX1/INV/EX1_INV_Tf_Waveform.png, id=258, 1153.911pt x 440.847pt>
+<section/EX1/INV/EX1_INV_Tf_Waveform.png, id=268, 1153.911pt x 440.847pt>
 File: section/EX1/INV/EX1_INV_Tf_Waveform.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_Tf_Waveform.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_Tf_Waveform.png  used on input
  line 139.
 (pdftex.def)             Requested size: 241.84843pt x 92.39224pt.
-<section/EX1/INV/EX1_INV_Tf_Cal.png, id=259, 1155.1155pt x 551.05875pt>
+<section/EX1/INV/EX1_INV_Tf_Cal.png, id=269, 1155.1155pt x 551.05875pt>
 File: section/EX1/INV/EX1_INV_Tf_Cal.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_Tf_Cal.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_Tf_Cal.png  used on input line
@@ -1382,13 +1382,13 @@ Overfull \hbox (2.61049pt too wide) in paragraph at lines 138--144
 []$[]$ $[]$
  []
 
-<section/EX1/INV/EX1_INV_Tpdr_Waveform.png, id=260, 1155.1155pt x 439.6425pt>
+<section/EX1/INV/EX1_INV_Tpdr_Waveform.png, id=270, 1155.1155pt x 439.6425pt>
 File: section/EX1/INV/EX1_INV_Tpdr_Waveform.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_Tpdr_Waveform.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_Tpdr_Waveform.png  used on inp
 ut line 149.
 (pdftex.def)             Requested size: 241.84843pt x 92.04588pt.
-<section/EX1/INV/EX1_INV_Tpdr_Cal.png, id=261, 1155.1155pt x 552.8655pt>
+<section/EX1/INV/EX1_INV_Tpdr_Cal.png, id=271, 1155.1155pt x 552.8655pt>
 File: section/EX1/INV/EX1_INV_Tpdr_Cal.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_Tpdr_Cal.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_Tpdr_Cal.png  used on input li
@@ -1399,13 +1399,13 @@ Overfull \hbox (2.61049pt too wide) in paragraph at lines 148--154
 []$[]$ $[]$
  []
 
-<section/EX1/INV/EX1_INV_Tpdf_Waveform.png, id=262, 1155.1155pt x 442.65375pt>
+<section/EX1/INV/EX1_INV_Tpdf_Waveform.png, id=272, 1155.1155pt x 442.65375pt>
 File: section/EX1/INV/EX1_INV_Tpdf_Waveform.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_Tpdf_Waveform.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_Tpdf_Waveform.png  used on inp
 ut line 159.
 (pdftex.def)             Requested size: 241.84843pt x 92.67633pt.
-<section/EX1/INV/EX1_INV_Tpdf_Cal.png, id=263, 1155.1155pt x 551.05875pt>
+<section/EX1/INV/EX1_INV_Tpdf_Cal.png, id=273, 1155.1155pt x 551.05875pt>
 File: section/EX1/INV/EX1_INV_Tpdf_Cal.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_Tpdf_Cal.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_Tpdf_Cal.png  used on input li
@@ -1461,23 +1461,34 @@ l.166
 r_Cal.png> <./section/EX1/INV/EX1_INV_Tf_Waveform.png> <./section/EX1/INV/EX1_I
 NV_Tf_Cal.png> <./section/EX1/INV/EX1_INV_Tpdr_Waveform.png> <./section/EX1/INV
 /EX1_INV_Tpdr_Cal.png>]
-<section/EX1/INV/EX1_INV_layout.png, id=279, 420.82219pt x 395.97937pt>
+<section/EX1/INV/EX1_INV_Power_Static.png, id=289, 151.767pt x 322.806pt>
+File: section/EX1/INV/EX1_INV_Power_Static.png Graphic file (type png)
+<use section/EX1/INV/EX1_INV_Power_Static.png>
+Package pdftex.def Info: section/EX1/INV/EX1_INV_Power_Static.png  used on inpu
+t line 169.
+(pdftex.def)             Requested size: 241.84843pt x 514.40675pt.
+<section/EX1/INV/EX1_INV_Power_Total.png, id=290, 219.82124pt x 271.0125pt>
+File: section/EX1/INV/EX1_INV_Power_Total.png Graphic file (type png)
+<use section/EX1/INV/EX1_INV_Power_Total.png>
+Package pdftex.def Info: section/EX1/INV/EX1_INV_Power_Total.png  used on input
+ line 173.
+(pdftex.def)             Requested size: 241.84843pt x 298.17668pt.
+
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 168--176
+[]$[]$ $[]$ 
+ []
+
+<section/EX1/INV/EX1_INV_layout.png, id=291, 420.82219pt x 395.97937pt>
 File: section/EX1/INV/EX1_INV_layout.png Graphic file (type png)
 <use section/EX1/INV/EX1_INV_layout.png>
 Package pdftex.def Info: section/EX1/INV/EX1_INV_layout.png  used on input line
- 171.
-(pdftex.def)             Requested size: 290.22107pt x 273.09314pt.
-<section/EX1/NAND/EX1_NAND2_schematic.png, id=280, 1301.61281pt x 508.14844pt>
-File: section/EX1/NAND/EX1_NAND2_schematic.png Graphic file (type png)
-<use section/EX1/NAND/EX1_NAND2_schematic.png>
-Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_schematic.png  used on inpu
-t line 205.
-(pdftex.def)             Requested size: 290.22107pt x 113.29721pt.
+ 182.
+(pdftex.def)             Requested size: 338.58632pt x 318.60262pt.
 
 
 File: section/pic/bk_name_en.png Graphic file (type png)
 <use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 209.
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 186.
 (pdftex.def)             Requested size: 193.47578pt x 27.191pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1488,47 +1499,84 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 209.
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 186.
 (pdftex.def)             Requested size: 12.11928pt x 12.0pt.
 [8
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.209 
+l.186 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.209 
+l.186 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.186 
+       <./section/EX1/INV/EX1_INV_Tpdf_Waveform.png> <./section/EX1/INV/EX1_INV
+_Tpdf_Cal.png> <./section/EX1/INV/EX1_INV_Power_Static.png> <./section/EX1/INV/
+EX1_INV_Power_Total.png>]
+<section/EX1/NAND/EX1_NAND2_schematic.png, id=300, 604.50844pt x 508.14844pt>
+File: section/EX1/NAND/EX1_NAND2_schematic.png Graphic file (type png)
+<use section/EX1/NAND/EX1_NAND2_schematic.png>
+Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_schematic.png  used on inpu
+t line 216.
+(pdftex.def)             Requested size: 290.22107pt x 243.95499pt.
+
+
+File: section/pic/bk_name_en.png Graphic file (type png)
+<use section/pic/bk_name_en.png>
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 220.
+(pdftex.def)             Requested size: 193.47578pt x 27.191pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 31.54103pt, for example:
+(fancyhdr)                \setlength{\headheight}{31.54103pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-19.54103pt}.
+
+File: section/pic/logo_DEE.png Graphic file (type png)
+<use section/pic/logo_DEE.png>
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 220.
+(pdftex.def)             Requested size: 12.11928pt x 12.0pt.
+[9
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.220 
       
 pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.209 
-       <./section/EX1/INV/EX1_INV_Tpdf_Waveform.png> <./section/EX1/INV/EX1_INV
-_Tpdf_Cal.png> <./section/EX1/INV/EX1_INV_layout.png>]
-<section/EX1/NAND/EX1_NAND2_symbol.png, id=289, 1301.61281pt x 511.15968pt>
+l.220 
+       <./section/EX1/INV/EX1_INV_layout.png>]
+<section/EX1/NAND/EX1_NAND2_symbol.png, id=307, 986.18437pt x 511.15968pt>
 File: section/EX1/NAND/EX1_NAND2_symbol.png Graphic file (type png)
 <use section/EX1/NAND/EX1_NAND2_symbol.png>
 Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_symbol.png  used on input l
-ine 214.
-(pdftex.def)             Requested size: 290.22107pt x 113.9686pt.
-<section/EX1/NAND/EX1_NAND2_DCanalysis_schematic.png, id=290, 685.3605pt x 395.
-67825pt>
+ine 225.
+(pdftex.def)             Requested size: 290.22107pt x 150.42421pt.
+<section/EX1/NAND/EX1_NAND2_DCanalysis_schematic.png, id=308, 717.43031pt x 456
+.95718pt>
 File: section/EX1/NAND/EX1_NAND2_DCanalysis_schematic.png Graphic file (type pn
 g)
 <use section/EX1/NAND/EX1_NAND2_DCanalysis_schematic.png>
 Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_DCanalysis_schematic.png  u
-sed on input line 241.
-(pdftex.def)             Requested size: 290.22107pt x 167.55424pt.
+sed on input line 252.
+(pdftex.def)             Requested size: 290.22107pt x 184.85745pt.
 
 
 File: section/pic/bk_name_en.png Graphic file (type png)
 <use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 244.
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 255.
 (pdftex.def)             Requested size: 193.47578pt x 27.191pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1539,106 +1587,53 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 244.
-(pdftex.def)             Requested size: 12.11928pt x 12.0pt.
-[9
-pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.244 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.244 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.244 
-       <./section/EX1/NAND/EX1_NAND2_schematic.png> <./section/EX1/NAND/EX1_NAN
-D2_symbol.png>]
-<section/EX1/NAND/EX1_NAND2_DCanalysis_vtc.png, id=298, 602.25pt x 451.6875pt>
-File: section/EX1/NAND/EX1_NAND2_DCanalysis_vtc.png Graphic file (type png)
-<use section/EX1/NAND/EX1_NAND2_DCanalysis_vtc.png>
-Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_DCanalysis_vtc.png  used on
- input line 259.
-(pdftex.def)             Requested size: 290.22107pt x 217.67595pt.
-<section/EX1/NAND/EX1_NAND2_Trans_schematic.png, id=299, 685.3605pt x 395.67825
-pt>
-File: section/EX1/NAND/EX1_NAND2_Trans_schematic.png Graphic file (type png)
-<use section/EX1/NAND/EX1_NAND2_Trans_schematic.png>
-Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Trans_schematic.png  used o
-n input line 268.
-(pdftex.def)             Requested size: 290.22107pt x 167.55424pt.
-
-
-File: section/pic/bk_name_en.png Graphic file (type png)
-<use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 271.
-(pdftex.def)             Requested size: 193.47578pt x 27.191pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.54103pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.54103pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-19.54103pt}.
-
-File: section/pic/logo_DEE.png Graphic file (type png)
-<use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 271.
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 255.
 (pdftex.def)             Requested size: 12.11928pt x 12.0pt.
 [10
 pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.271 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{table.7}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.271 
+l.255 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.271 
-       <./section/EX1/NAND/EX1_NAND2_DCanalysis_schematic.png> <./section/EX1/N
-AND/EX1_NAND2_DCanalysis_vtc.png>]
-<section/EX1/NAND/EX1_NAND2_waveform.png, id=307, 602.25pt x 451.6875pt>
+l.255 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.255 
+       <./section/EX1/NAND/EX1_NAND2_schematic.png> <./section/EX1/NAND/EX1_NAN
+D2_symbol.png>]
+<section/EX1/NAND/EX1_NAND2_DCanalysis_vtc.png, id=316, 1437.87187pt x 489.3281
+3pt>
+File: section/EX1/NAND/EX1_NAND2_DCanalysis_vtc.png Graphic file (type png)
+<use section/EX1/NAND/EX1_NAND2_DCanalysis_vtc.png>
+Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_DCanalysis_vtc.png  used on
+ input line 270.
+(pdftex.def)             Requested size: 290.22107pt x 98.76733pt.
+<section/EX1/NAND/EX1_NAND2_Trans_schematic.png, id=317, 781.41937pt x 484.8112
+5pt>
+File: section/EX1/NAND/EX1_NAND2_Trans_schematic.png Graphic file (type png)
+<use section/EX1/NAND/EX1_NAND2_Trans_schematic.png>
+Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Trans_schematic.png  used o
+n input line 279.
+(pdftex.def)             Requested size: 290.22107pt x 180.05792pt.
+<section/EX1/NAND/EX1_NAND2_waveform.png, id=318, 1437.87187pt x 489.32813pt>
 File: section/EX1/NAND/EX1_NAND2_waveform.png Graphic file (type png)
 <use section/EX1/NAND/EX1_NAND2_waveform.png>
 Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_waveform.png  used on input
- line 274.
-(pdftex.def)             Requested size: 290.22107pt x 217.67595pt.
-<section/EX1/NAND/EX1_NAND2_Tr_Waveform.png, id=308, 602.25pt x 451.6875pt>
-File: section/EX1/NAND/EX1_NAND2_Tr_Waveform.png Graphic file (type png)
-<use section/EX1/NAND/EX1_NAND2_Tr_Waveform.png>
-Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tr_Waveform.png  used on in
-put line 304.
-(pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
-<section/EX1/NAND/EX1_NAND2_Tr_Cal.png, id=309, 617.30624pt x 429.85594pt>
-File: section/EX1/NAND/EX1_NAND2_Tr_Cal.png Graphic file (type png)
-<use section/EX1/NAND/EX1_NAND2_Tr_Cal.png>
-Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tr_Cal.png  used on input l
-ine 307.
-(pdftex.def)             Requested size: 241.84843pt x 168.41055pt.
-
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 303--309
-[]$[]$ $[]$
- []
-
+ line 285.
+(pdftex.def)             Requested size: 290.22107pt x 98.76733pt.
 
 
 File: section/pic/bk_name_en.png Graphic file (type png)
 <use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 311.
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 289.
 (pdftex.def)             Requested size: 193.47578pt x 27.191pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1649,129 +1644,151 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 311.
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 289.
 (pdftex.def)             Requested size: 12.11928pt x 12.0pt.
 [11
 pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.311 
+l.289 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.7}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.289 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.311 
+l.289 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.289 
+       <./section/EX1/NAND/EX1_NAND2_DCanalysis_schematic.png> <./section/EX1/N
+AND/EX1_NAND2_DCanalysis_vtc.png> <./section/EX1/NAND/EX1_NAND2_Trans_schematic
+.png>]
+<section/EX1/NAND/EX1_NAND2_Tr_Waveform.png, id=327, 602.25pt x 451.6875pt>
+File: section/EX1/NAND/EX1_NAND2_Tr_Waveform.png Graphic file (type png)
+<use section/EX1/NAND/EX1_NAND2_Tr_Waveform.png>
+Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tr_Waveform.png  used on in
+put line 315.
+(pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
+<section/EX1/NAND/EX1_NAND2_Tr_Cal.png, id=328, 617.30624pt x 429.85594pt>
+File: section/EX1/NAND/EX1_NAND2_Tr_Cal.png Graphic file (type png)
+<use section/EX1/NAND/EX1_NAND2_Tr_Cal.png>
+Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tr_Cal.png  used on input l
+ine 318.
+(pdftex.def)             Requested size: 241.84843pt x 168.41055pt.
+
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 314--320
+[]$[]$ $[]$
+ []
+
+<section/EX1/NAND/EX1_NAND2_Tf_Waveform.png, id=329, 602.25pt x 451.6875pt>
+File: section/EX1/NAND/EX1_NAND2_Tf_Waveform.png Graphic file (type png)
+<use section/EX1/NAND/EX1_NAND2_Tf_Waveform.png>
+Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tf_Waveform.png  used on in
+put line 325.
+(pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
+<section/EX1/NAND/EX1_NAND2_Tf_Cal.png, id=330, 649.67719pt x 420.82219pt>
+File: section/EX1/NAND/EX1_NAND2_Tf_Cal.png Graphic file (type png)
+<use section/EX1/NAND/EX1_NAND2_Tf_Cal.png>
+Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tf_Cal.png  used on input l
+ine 328.
+(pdftex.def)             Requested size: 241.84843pt x 156.6521pt.
+
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 324--330
+[]$[]$ $[]$
+ []
+
+
+
+File: section/pic/bk_name_en.png Graphic file (type png)
+<use section/pic/bk_name_en.png>
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 332.
+(pdftex.def)             Requested size: 193.47578pt x 27.191pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 31.54103pt, for example:
+(fancyhdr)                \setlength{\headheight}{31.54103pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-19.54103pt}.
+
+File: section/pic/logo_DEE.png Graphic file (type png)
+<use section/pic/logo_DEE.png>
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 332.
+(pdftex.def)             Requested size: 12.11928pt x 12.0pt.
+[12
+pdfTeX warning (ext4): destination with the same identifier (name{figure.19}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.332 
       
 pdfTeX warning (ext4): destination with the same identifier (name{table.8}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.311 
-       <./section/EX1/NAND/EX1_NAND2_Trans_schematic.png> <./section/EX1/NAND/E
-X1_NAND2_waveform.png>]
-<section/EX1/NAND/EX1_NAND2_Tf_Waveform.png, id=317, 602.25pt x 451.6875pt>
-File: section/EX1/NAND/EX1_NAND2_Tf_Waveform.png Graphic file (type png)
-<use section/EX1/NAND/EX1_NAND2_Tf_Waveform.png>
-Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tf_Waveform.png  used on in
-put line 314.
-(pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
-<section/EX1/NAND/EX1_NAND2_Tf_Cal.png, id=318, 649.67719pt x 420.82219pt>
-File: section/EX1/NAND/EX1_NAND2_Tf_Cal.png Graphic file (type png)
-<use section/EX1/NAND/EX1_NAND2_Tf_Cal.png>
-Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tf_Cal.png  used on input l
-ine 317.
-(pdftex.def)             Requested size: 241.84843pt x 156.6521pt.
-
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 313--319
-[]$[]$ $[]$
- []
-
-<section/EX1/NAND/EX1_NAND2_Tpdr_Waveform.png, id=319, 602.25pt x 451.6875pt>
-File: section/EX1/NAND/EX1_NAND2_Tpdr_Waveform.png Graphic file (type png)
-<use section/EX1/NAND/EX1_NAND2_Tpdr_Waveform.png>
-Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tpdr_Waveform.png  used on 
-input line 324.
-(pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
-<section/EX1/NAND/EX1_NAND2_Tpdr_Cal.png, id=320, 741.52031pt x 407.27156pt>
-File: section/EX1/NAND/EX1_NAND2_Tpdr_Cal.png Graphic file (type png)
-<use section/EX1/NAND/EX1_NAND2_Tpdr_Cal.png>
-Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tpdr_Cal.png  used on input
- line 327.
-(pdftex.def)             Requested size: 241.84843pt x 132.82776pt.
-
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 323--329
-[]$[]$ $[]$
- []
-
-<section/EX1/NAND/EX1_NAND2_Tpdf_Waveform.png, id=321, 602.25pt x 451.6875pt>
-File: section/EX1/NAND/EX1_NAND2_Tpdf_Waveform.png Graphic file (type png)
-<use section/EX1/NAND/EX1_NAND2_Tpdf_Waveform.png>
-Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tpdf_Waveform.png  used on 
-input line 334.
-(pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
-<section/EX1/NAND/EX1_NAND2_Tpdf_Cal.png, id=322, 750.55406pt x 406.51875pt>
-File: section/EX1/NAND/EX1_NAND2_Tpdf_Cal.png Graphic file (type png)
-<use section/EX1/NAND/EX1_NAND2_Tpdf_Cal.png>
-Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tpdf_Cal.png  used on input
- line 337.
-(pdftex.def)             Requested size: 241.84843pt x 130.98808pt.
-
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 333--339
-[]$[]$ $[]$
- []
-
-
-
-File: section/pic/bk_name_en.png Graphic file (type png)
-<use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 341.
-(pdftex.def)             Requested size: 193.47578pt x 27.191pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.54103pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.54103pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-19.54103pt}.
-
-File: section/pic/logo_DEE.png Graphic file (type png)
-<use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 341.
-(pdftex.def)             Requested size: 12.11928pt x 12.0pt.
-[12
-pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.341 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.19}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.341 
+l.332 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.20}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.341 
-       <./section/EX1/NAND/EX1_NAND2_Tr_Waveform.png> <./section/EX1/NAND/EX1_N
-AND2_Tr_Cal.png> <./section/EX1/NAND/EX1_NAND2_Tf_Waveform.png> <./section/EX1/
-NAND/EX1_NAND2_Tf_Cal.png> <./section/EX1/NAND/EX1_NAND2_Tpdr_Waveform.png> <./
-section/EX1/NAND/EX1_NAND2_Tpdr_Cal.png>]
-<section/EX1/NOR/EX1_NOR2_schematic.png, id=333, 654.19406pt x 549.55313pt>
-File: section/EX1/NOR/EX1_NOR2_schematic.png Graphic file (type png)
-<use section/EX1/NOR/EX1_NOR2_schematic.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_schematic.png  used on input 
-line 372.
-(pdftex.def)             Requested size: 290.22107pt x 243.79987pt.
+l.332 
+       <./section/EX1/NAND/EX1_NAND2_waveform.png> <./section/EX1/NAND/EX1_NAND
+2_Tr_Waveform.png> <./section/EX1/NAND/EX1_NAND2_Tr_Cal.png>]
+<section/EX1/NAND/EX1_NAND2_Tpdr_Waveform.png, id=339, 602.25pt x 451.6875pt>
+File: section/EX1/NAND/EX1_NAND2_Tpdr_Waveform.png Graphic file (type png)
+<use section/EX1/NAND/EX1_NAND2_Tpdr_Waveform.png>
+Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tpdr_Waveform.png  used on 
+input line 335.
+(pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
+<section/EX1/NAND/EX1_NAND2_Tpdr_Cal.png, id=340, 741.52031pt x 407.27156pt>
+File: section/EX1/NAND/EX1_NAND2_Tpdr_Cal.png Graphic file (type png)
+<use section/EX1/NAND/EX1_NAND2_Tpdr_Cal.png>
+Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tpdr_Cal.png  used on input
+ line 338.
+(pdftex.def)             Requested size: 241.84843pt x 132.82776pt.
+
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 334--340
+[]$[]$ $[]$
+ []
+
+<section/EX1/NAND/EX1_NAND2_Tpdf_Waveform.png, id=341, 602.25pt x 451.6875pt>
+File: section/EX1/NAND/EX1_NAND2_Tpdf_Waveform.png Graphic file (type png)
+<use section/EX1/NAND/EX1_NAND2_Tpdf_Waveform.png>
+Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tpdf_Waveform.png  used on 
+input line 345.
+(pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
+<section/EX1/NAND/EX1_NAND2_Tpdf_Cal.png, id=342, 750.55406pt x 406.51875pt>
+File: section/EX1/NAND/EX1_NAND2_Tpdf_Cal.png Graphic file (type png)
+<use section/EX1/NAND/EX1_NAND2_Tpdf_Cal.png>
+Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Tpdf_Cal.png  used on input
+ line 348.
+(pdftex.def)             Requested size: 241.84843pt x 130.98808pt.
+
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 344--350
+[]$[]$ $[]$
+ []
+
+<section/EX1/NAND/EX1_NAND2_Power.png, id=343, 430.60875pt x 361.35pt>
+File: section/EX1/NAND/EX1_NAND2_Power.png Graphic file (type png)
+<use section/EX1/NAND/EX1_NAND2_Power.png>
+Package pdftex.def Info: section/EX1/NAND/EX1_NAND2_Power.png  used on input li
+ne 355.
+(pdftex.def)             Requested size: 338.58632pt x 284.13455pt.
 
 
 File: section/pic/bk_name_en.png Graphic file (type png)
 <use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 376.
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 358.
 (pdftex.def)             Requested size: 193.47578pt x 27.191pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1782,90 +1799,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 376.
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 358.
 (pdftex.def)             Requested size: 12.11928pt x 12.0pt.
 [13
 pdfTeX warning (ext4): destination with the same identifier (name{figure.21}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.376 
+l.358 
       
-pdfTeX warning (ext4): destination with the same identifier (name{table.9}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.376 
-       <./section/EX1/NAND/EX1_NAND2_Tpdf_Waveform.png> <./section/EX1/NAND/EX1
-_NAND2_Tpdf_Cal.png>]
-<section/EX1/NOR/EX1_NOR2_symbol.png, id=342, 431.81325pt x 319.79475pt>
-File: section/EX1/NOR/EX1_NOR2_symbol.png Graphic file (type png)
-<use section/EX1/NOR/EX1_NOR2_symbol.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_symbol.png  used on input lin
-e 381.
-(pdftex.def)             Requested size: 290.22107pt x 214.94452pt.
-
-
-File: section/pic/bk_name_en.png Graphic file (type png)
-<use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 405.
-(pdftex.def)             Requested size: 193.47578pt x 27.191pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.54103pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.54103pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-19.54103pt}.
-
-File: section/pic/logo_DEE.png Graphic file (type png)
-<use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 405.
-(pdftex.def)             Requested size: 12.11928pt x 12.0pt.
-[14
 pdfTeX warning (ext4): destination with the same identifier (name{figure.22}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.405 
+l.358 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.23}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.405 
-       <./section/EX1/NOR/EX1_NOR2_schematic.png> <./section/EX1/NOR/EX1_NOR2_s
-ymbol.png>]
-<section/EX1/NOR/EX1_NOR2_DCanalysis_schematic.png, id=349, 685.3605pt x 395.67
-825pt>
-File: section/EX1/NOR/EX1_NOR2_DCanalysis_schematic.png Graphic file (type png)
-
-<use section/EX1/NOR/EX1_NOR2_DCanalysis_schematic.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_DCanalysis_schematic.png  use
-d on input line 408.
-(pdftex.def)             Requested size: 290.22107pt x 167.55424pt.
-
-Overfull \hbox (46.06776pt too wide) in paragraph at lines 414--421
- [][] 
- []
-
-<section/EX1/NOR/EX1_NOR2_DCanalysis_vtc.png, id=350, 1155.1155pt x 440.847pt>
-File: section/EX1/NOR/EX1_NOR2_DCanalysis_vtc.png Graphic file (type png)
-<use section/EX1/NOR/EX1_NOR2_DCanalysis_vtc.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_DCanalysis_vtc.png  used on i
-nput line 426.
-(pdftex.def)             Requested size: 290.22107pt x 110.76306pt.
-<section/EX1/NOR/EX1_NOR2_Trans_schematic.png, id=351, 685.3605pt x 395.67825pt
->
-File: section/EX1/NOR/EX1_NOR2_Trans_schematic.png Graphic file (type png)
-<use section/EX1/NOR/EX1_NOR2_Trans_schematic.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Trans_schematic.png  used on 
-input line 435.
-(pdftex.def)             Requested size: 290.22107pt x 167.55424pt.
+l.358 
+       <./section/EX1/NAND/EX1_NAND2_Tf_Waveform.png> <./section/EX1/NAND/EX1_N
+AND2_Tf_Cal.png> <./section/EX1/NAND/EX1_NAND2_Tpdr_Waveform.png> <./section/EX
+1/NAND/EX1_NAND2_Tpdr_Cal.png> <./section/EX1/NAND/EX1_NAND2_Tpdf_Waveform.png>
+ <./section/EX1/NAND/EX1_NAND2_Tpdf_Cal.png>]
+<section/EX1/NOR/EX1_NOR2_schematic.png, id=355, 654.19406pt x 549.55313pt>
+File: section/EX1/NOR/EX1_NOR2_schematic.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_schematic.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_schematic.png  used on input 
+line 389.
+(pdftex.def)             Requested size: 290.22107pt x 243.79987pt.
 
 
 File: section/pic/bk_name_en.png Graphic file (type png)
 <use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 438.
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 393.
 (pdftex.def)             Requested size: 193.47578pt x 27.191pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1876,62 +1844,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 438.
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 393.
 (pdftex.def)             Requested size: 12.11928pt x 12.0pt.
-[15
-pdfTeX warning (ext4): destination with the same identifier (name{table.10}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.438 
-      
+[14
 pdfTeX warning (ext4): destination with the same identifier (name{figure.24}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.438 
+l.393 
       
-pdfTeX warning (ext4): destination with the same identifier (name{table.11}) ha
-s been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{table.9}) has
+ been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.438 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.25}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.438 
-       <./section/EX1/NOR/EX1_NOR2_DCanalysis_schematic.png> <./section/EX1/NOR
-/EX1_NOR2_DCanalysis_vtc.png>]
-<section/EX1/NOR/EX1_NOR2_waveform.png, id=360, 602.25pt x 376.40625pt>
-File: section/EX1/NOR/EX1_NOR2_waveform.png Graphic file (type png)
-<use section/EX1/NOR/EX1_NOR2_waveform.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_waveform.png  used on input l
-ine 441.
-(pdftex.def)             Requested size: 290.22107pt x 181.39662pt.
-<section/EX1/NOR/EX1_NOR2_Tr_Waveform.png, id=361, 602.25pt x 376.40625pt>
-File: section/EX1/NOR/EX1_NOR2_Tr_Waveform.png Graphic file (type png)
-<use section/EX1/NOR/EX1_NOR2_Tr_Waveform.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tr_Waveform.png  used on inpu
-t line 471.
-(pdftex.def)             Requested size: 241.84843pt x 151.15715pt.
-<section/EX1/NOR/EX1_NOR2_Tr_Cal.png, id=362, 1155.1155pt x 551.661pt>
-File: section/EX1/NOR/EX1_NOR2_Tr_Cal.png Graphic file (type png)
-<use section/EX1/NOR/EX1_NOR2_Tr_Cal.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tr_Cal.png  used on input lin
-e 474.
-(pdftex.def)             Requested size: 241.84843pt x 115.49869pt.
-
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 470--476
-[]$[]$ $[]$
- []
-
+l.393 
+       <./section/EX1/NAND/EX1_NAND2_Power.png>]
+<section/EX1/NOR/EX1_NOR2_symbol.png, id=362, 431.81325pt x 319.79475pt>
+File: section/EX1/NOR/EX1_NOR2_symbol.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_symbol.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_symbol.png  used on input lin
+e 398.
+(pdftex.def)             Requested size: 290.22107pt x 214.94452pt.
 
 
 File: section/pic/bk_name_en.png Graphic file (type png)
 <use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 478.
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 422.
 (pdftex.def)             Requested size: 193.47578pt x 27.191pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1942,76 +1880,110 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 478.
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 422.
 (pdftex.def)             Requested size: 12.11928pt x 12.0pt.
-[16
+[15
+pdfTeX warning (ext4): destination with the same identifier (name{figure.25}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.422 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.26}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.478 
+l.422 
+       <./section/EX1/NOR/EX1_NOR2_schematic.png> <./section/EX1/NOR/EX1_NOR2_s
+ymbol.png>]
+<section/EX1/NOR/EX1_NOR2_DCanalysis_schematic.png, id=369, 645.00975pt x 436.6
+3126pt>
+File: section/EX1/NOR/EX1_NOR2_DCanalysis_schematic.png Graphic file (type png)
+
+<use section/EX1/NOR/EX1_NOR2_DCanalysis_schematic.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_DCanalysis_schematic.png  use
+d on input line 425.
+(pdftex.def)             Requested size: 290.22107pt x 196.46225pt.
+
+Overfull \hbox (46.06776pt too wide) in paragraph at lines 431--438
+ [][] 
+ []
+
+<section/EX1/NOR/EX1_NOR2_DCanalysis_vtc.png, id=370, 1155.1155pt x 440.847pt>
+File: section/EX1/NOR/EX1_NOR2_DCanalysis_vtc.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_DCanalysis_vtc.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_DCanalysis_vtc.png  used on i
+nput line 443.
+(pdftex.def)             Requested size: 290.22107pt x 110.76306pt.
+<section/EX1/NOR/EX1_NOR2_Trans_schematic.png, id=371, 615.4995pt x 416.757pt>
+File: section/EX1/NOR/EX1_NOR2_Trans_schematic.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_Trans_schematic.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Trans_schematic.png  used on 
+input line 452.
+(pdftex.def)             Requested size: 290.22107pt x 196.5181pt.
+
+
+File: section/pic/bk_name_en.png Graphic file (type png)
+<use section/pic/bk_name_en.png>
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 455.
+(pdftex.def)             Requested size: 193.47578pt x 27.191pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 31.54103pt, for example:
+(fancyhdr)                \setlength{\headheight}{31.54103pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-19.54103pt}.
+
+File: section/pic/logo_DEE.png Graphic file (type png)
+<use section/pic/logo_DEE.png>
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 455.
+(pdftex.def)             Requested size: 12.11928pt x 12.0pt.
+[16
+pdfTeX warning (ext4): destination with the same identifier (name{table.10}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.455 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.27}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.478 
+l.455 
       
-pdfTeX warning (ext4): destination with the same identifier (name{table.12}) ha
+pdfTeX warning (ext4): destination with the same identifier (name{table.11}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.478 
-       <./section/EX1/NOR/EX1_NOR2_Trans_schematic.png> <./section/EX1/NOR/EX1_
-NOR2_waveform.png>]
-<section/EX1/NOR/EX1_NOR2_Tf_Waveform.png, id=370, 602.25pt x 376.40625pt>
-File: section/EX1/NOR/EX1_NOR2_Tf_Waveform.png Graphic file (type png)
-<use section/EX1/NOR/EX1_NOR2_Tf_Waveform.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tf_Waveform.png  used on inpu
-t line 481.
+l.455 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.28}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.455 
+       <./section/EX1/NOR/EX1_NOR2_DCanalysis_schematic.png> <./section/EX1/NOR
+/EX1_NOR2_DCanalysis_vtc.png>]
+<section/EX1/NOR/EX1_NOR2_waveform.png, id=380, 602.25pt x 376.40625pt>
+File: section/EX1/NOR/EX1_NOR2_waveform.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_waveform.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_waveform.png  used on input l
+ine 458.
+(pdftex.def)             Requested size: 290.22107pt x 181.39662pt.
+<section/EX1/NOR/EX1_NOR2_Tr_Waveform.png, id=381, 602.25pt x 376.40625pt>
+File: section/EX1/NOR/EX1_NOR2_Tr_Waveform.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_Tr_Waveform.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tr_Waveform.png  used on inpu
+t line 488.
 (pdftex.def)             Requested size: 241.84843pt x 151.15715pt.
-<section/EX1/NOR/EX1_NOR2_Tf_Cal.png, id=371, 1155.1155pt x 551.661pt>
-File: section/EX1/NOR/EX1_NOR2_Tf_Cal.png Graphic file (type png)
-<use section/EX1/NOR/EX1_NOR2_Tf_Cal.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tf_Cal.png  used on input lin
-e 484.
+<section/EX1/NOR/EX1_NOR2_Tr_Cal.png, id=382, 1155.1155pt x 551.661pt>
+File: section/EX1/NOR/EX1_NOR2_Tr_Cal.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_Tr_Cal.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tr_Cal.png  used on input lin
+e 491.
 (pdftex.def)             Requested size: 241.84843pt x 115.49869pt.
 
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 480--486
-[]$[]$ $[]$
- []
-
-<section/EX1/NOR/EX1_NOR2_Tpdr_Waveform.png, id=372, 602.25pt x 376.40625pt>
-File: section/EX1/NOR/EX1_NOR2_Tpdr_Waveform.png Graphic file (type png)
-<use section/EX1/NOR/EX1_NOR2_Tpdr_Waveform.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tpdr_Waveform.png  used on in
-put line 491.
-(pdftex.def)             Requested size: 241.84843pt x 151.15715pt.
-<section/EX1/NOR/EX1_NOR2_Tpdr_Cal.png, id=373, 1153.30875pt x 551.05875pt>
-File: section/EX1/NOR/EX1_NOR2_Tpdr_Cal.png Graphic file (type png)
-<use section/EX1/NOR/EX1_NOR2_Tpdr_Cal.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tpdr_Cal.png  used on input l
-ine 494.
-(pdftex.def)             Requested size: 241.84843pt x 115.55757pt.
-
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 490--496
-[]$[]$ $[]$
- []
-
-<section/EX1/NOR/EX1_NOR2_Tpdf_Waveform.png, id=374, 602.25pt x 376.40625pt>
-File: section/EX1/NOR/EX1_NOR2_Tpdf_Waveform.png Graphic file (type png)
-<use section/EX1/NOR/EX1_NOR2_Tpdf_Waveform.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tpdf_Waveform.png  used on in
-put line 501.
-(pdftex.def)             Requested size: 241.84843pt x 151.15715pt.
-<section/EX1/NOR/EX1_NOR2_Tpdf_Cal.png, id=375, 1155.1155pt x 552.26324pt>
-File: section/EX1/NOR/EX1_NOR2_Tpdf_Cal.png Graphic file (type png)
-<use section/EX1/NOR/EX1_NOR2_Tpdf_Cal.png>
-Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tpdf_Cal.png  used on input l
-ine 504.
-(pdftex.def)             Requested size: 241.84843pt x 115.62477pt.
-
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 500--506
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 487--493
 []$[]$ $[]$
  []
 
@@ -2019,7 +1991,7 @@ Overfull \hbox (2.61049pt too wide) in paragraph at lines 500--506
 
 File: section/pic/bk_name_en.png Graphic file (type png)
 <use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 508.
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 495.
 (pdftex.def)             Requested size: 193.47578pt x 27.191pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2030,47 +2002,84 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 508.
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 495.
 (pdftex.def)             Requested size: 12.11928pt x 12.0pt.
 [17
-pdfTeX warning (ext4): destination with the same identifier (name{figure.28}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.508 
-      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.29}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.508 
+l.495 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.30}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.508 
-       <./section/EX1/NOR/EX1_NOR2_Tr_Waveform.png> <./section/EX1/NOR/EX1_NOR2
-_Tr_Cal.png> <./section/EX1/NOR/EX1_NOR2_Tf_Waveform.png> <./section/EX1/NOR/EX
-1_NOR2_Tf_Cal.png> <./section/EX1/NOR/EX1_NOR2_Tpdr_Waveform.png> <./section/EX
-1/NOR/EX1_NOR2_Tpdr_Cal.png>]
-<section/EX1/EXOR/EX1_EXOR2_schematic.png, id=386, 737.00343pt x 509.65407pt>
-File: section/EX1/EXOR/EX1_EXOR2_schematic.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_schematic.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_schematic.png  used on inpu
-t line 540.
-(pdftex.def)             Requested size: 290.22107pt x 200.6929pt.
-<section/EX1/EXOR/EX1_EXOR2_symbol.png, id=387, 803.25093pt x 511.15968pt>
-File: section/EX1/EXOR/EX1_EXOR2_symbol.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_symbol.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_symbol.png  used on input l
-ine 549.
-(pdftex.def)             Requested size: 290.22107pt x 184.68811pt.
+l.495 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.12}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.495 
+       <./section/EX1/NOR/EX1_NOR2_Trans_schematic.png> <./section/EX1/NOR/EX1_
+NOR2_waveform.png>]
+<section/EX1/NOR/EX1_NOR2_Tf_Waveform.png, id=390, 602.25pt x 376.40625pt>
+File: section/EX1/NOR/EX1_NOR2_Tf_Waveform.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_Tf_Waveform.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tf_Waveform.png  used on inpu
+t line 498.
+(pdftex.def)             Requested size: 241.84843pt x 151.15715pt.
+<section/EX1/NOR/EX1_NOR2_Tf_Cal.png, id=391, 1155.1155pt x 551.661pt>
+File: section/EX1/NOR/EX1_NOR2_Tf_Cal.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_Tf_Cal.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tf_Cal.png  used on input lin
+e 501.
+(pdftex.def)             Requested size: 241.84843pt x 115.49869pt.
+
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 497--503
+[]$[]$ $[]$
+ []
+
+<section/EX1/NOR/EX1_NOR2_Tpdr_Waveform.png, id=392, 602.25pt x 376.40625pt>
+File: section/EX1/NOR/EX1_NOR2_Tpdr_Waveform.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_Tpdr_Waveform.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tpdr_Waveform.png  used on in
+put line 508.
+(pdftex.def)             Requested size: 241.84843pt x 151.15715pt.
+<section/EX1/NOR/EX1_NOR2_Tpdr_Cal.png, id=393, 1153.30875pt x 551.05875pt>
+File: section/EX1/NOR/EX1_NOR2_Tpdr_Cal.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_Tpdr_Cal.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tpdr_Cal.png  used on input l
+ine 511.
+(pdftex.def)             Requested size: 241.84843pt x 115.55757pt.
+
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 507--513
+[]$[]$ $[]$
+ []
+
+<section/EX1/NOR/EX1_NOR2_Tpdf_Waveform.png, id=394, 602.25pt x 376.40625pt>
+File: section/EX1/NOR/EX1_NOR2_Tpdf_Waveform.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_Tpdf_Waveform.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tpdf_Waveform.png  used on in
+put line 518.
+(pdftex.def)             Requested size: 241.84843pt x 151.15715pt.
+<section/EX1/NOR/EX1_NOR2_Tpdf_Cal.png, id=395, 1155.1155pt x 552.26324pt>
+File: section/EX1/NOR/EX1_NOR2_Tpdf_Cal.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_Tpdf_Cal.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Tpdf_Cal.png  used on input l
+ine 521.
+(pdftex.def)             Requested size: 241.84843pt x 115.62477pt.
+
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 517--523
+[]$[]$ $[]$
+ []
+
 
 
 File: section/pic/bk_name_en.png Graphic file (type png)
 <use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 553.
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 525.
 (pdftex.def)             Requested size: 193.47578pt x 27.191pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2081,102 +2090,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 553.
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 525.
 (pdftex.def)             Requested size: 12.11928pt x 12.0pt.
 [18
 pdfTeX warning (ext4): destination with the same identifier (name{figure.31}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.553 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{table.13}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.553 
+l.525 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.32}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.553 
-       <./section/EX1/NOR/EX1_NOR2_Tpdf_Waveform.png> <./section/EX1/NOR/EX1_NO
-R2_Tpdf_Cal.png> <./section/EX1/EXOR/EX1_EXOR2_schematic.png>]
-<section/EX1/EXOR/EX1_EXOR2_DCanalysis_schematic.png, id=396, 361.35pt x 329.43
-076pt>
-File: section/EX1/EXOR/EX1_EXOR2_DCanalysis_schematic.png Graphic file (type pn
-g)
-<use section/EX1/EXOR/EX1_EXOR2_DCanalysis_schematic.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_DCanalysis_schematic.png  u
-sed on input line 576.
-(pdftex.def)             Requested size: 290.22107pt x 264.58548pt.
-
-Overfull \hbox (21.26247pt too wide) in paragraph at lines 583--590
- [][] 
- []
-
-
-
-File: section/pic/bk_name_en.png Graphic file (type png)
-<use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 592.
-(pdftex.def)             Requested size: 193.47578pt x 27.191pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.54103pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.54103pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-19.54103pt}.
-
-File: section/pic/logo_DEE.png Graphic file (type png)
-<use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 592.
-(pdftex.def)             Requested size: 12.11928pt x 12.0pt.
-[19
+l.525 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.33}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.592 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{table.14}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.592 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.34}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.592 
-       <./section/EX1/EXOR/EX1_EXOR2_symbol.png> <./section/EX1/EXOR/EX1_EXOR2_
-DCanalysis_schematic.png>]
-<section/EX1/EXOR/EX1_EXOR2_DCanalysis_vtc.png, id=405, 602.25pt x 451.6875pt>
-File: section/EX1/EXOR/EX1_EXOR2_DCanalysis_vtc.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_DCanalysis_vtc.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_DCanalysis_vtc.png  used on
- input line 595.
-(pdftex.def)             Requested size: 290.22107pt x 217.67595pt.
-<section/EX1/EXOR/EX1_EXOR2_Trans_schematic.png, id=406, 361.35pt x 329.43076pt
->
-File: section/EX1/EXOR/EX1_EXOR2_Trans_schematic.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_Trans_schematic.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Trans_schematic.png  used o
-n input line 604.
-(pdftex.def)             Requested size: 290.22107pt x 264.58548pt.
-<section/EX1/EXOR/EX1_EXOR2_waveform.png, id=407, 602.25pt x 451.6875pt>
-File: section/EX1/EXOR/EX1_EXOR2_waveform.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_waveform.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_waveform.png  used on input
- line 610.
-(pdftex.def)             Requested size: 290.22107pt x 217.67595pt.
+l.525 
+       <./section/EX1/NOR/EX1_NOR2_Tr_Waveform.png> <./section/EX1/NOR/EX1_NOR2
+_Tr_Cal.png> <./section/EX1/NOR/EX1_NOR2_Tf_Waveform.png> <./section/EX1/NOR/EX
+1_NOR2_Tf_Cal.png> <./section/EX1/NOR/EX1_NOR2_Tpdr_Waveform.png> <./section/EX
+1/NOR/EX1_NOR2_Tpdr_Cal.png>]
+<section/EX1/NOR/EX1_NOR2_Power.png, id=406, 346.896pt x 336.65775pt>
+File: section/EX1/NOR/EX1_NOR2_Power.png Graphic file (type png)
+<use section/EX1/NOR/EX1_NOR2_Power.png>
+Package pdftex.def Info: section/EX1/NOR/EX1_NOR2_Power.png  used on input line
+ 528.
+(pdftex.def)             Requested size: 338.58632pt x 328.60725pt.
 
 
 File: section/pic/bk_name_en.png Graphic file (type png)
 <use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 614.
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 558.
 (pdftex.def)             Requested size: 193.47578pt x 27.191pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2187,67 +2135,103 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 614.
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 558.
 (pdftex.def)             Requested size: 12.11928pt x 12.0pt.
-[20
-pdfTeX warning (ext4): destination with the same identifier (name{table.15}) ha
-s been already used, duplicate ignored
+[19
+pdfTeX warning (ext4): destination with the same identifier (name{figure.34}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.614 
+l.558 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.35}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.614 
+l.558 
+       <./section/EX1/NOR/EX1_NOR2_Tpdf_Waveform.png> <./section/EX1/NOR/EX1_NO
+R2_Tpdf_Cal.png> <./section/EX1/NOR/EX1_NOR2_Power.png>]
+<section/EX1/EXOR/EX1_EXOR2_schematic.png, id=415, 737.00343pt x 509.65407pt>
+File: section/EX1/EXOR/EX1_EXOR2_schematic.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_schematic.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_schematic.png  used on inpu
+t line 563.
+(pdftex.def)             Requested size: 290.22107pt x 200.6929pt.
+<section/EX1/EXOR/EX1_EXOR2_symbol.png, id=416, 803.25093pt x 511.15968pt>
+File: section/EX1/EXOR/EX1_EXOR2_symbol.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_symbol.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_symbol.png  used on input l
+ine 572.
+(pdftex.def)             Requested size: 290.22107pt x 184.68811pt.
+
+
+File: section/pic/bk_name_en.png Graphic file (type png)
+<use section/pic/bk_name_en.png>
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 580.
+(pdftex.def)             Requested size: 193.47578pt x 27.191pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 31.54103pt, for example:
+(fancyhdr)                \setlength{\headheight}{31.54103pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-19.54103pt}.
+
+File: section/pic/logo_DEE.png Graphic file (type png)
+<use section/pic/logo_DEE.png>
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 580.
+(pdftex.def)             Requested size: 12.11928pt x 12.0pt.
+[20
+pdfTeX warning (ext4): destination with the same identifier (name{table.13}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.580 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.36}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.614 
-       <./section/EX1/EXOR/EX1_EXOR2_DCanalysis_vtc.png> <./section/EX1/EXOR/EX
-1_EXOR2_Trans_schematic.png>]
-<section/EX1/EXOR/EX1_EXOR2_Tr_Waveform.png, id=415, 602.25pt x 451.6875pt>
-File: section/EX1/EXOR/EX1_EXOR2_Tr_Waveform.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_Tr_Waveform.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tr_Waveform.png  used on in
-put line 640.
-(pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
-<section/EX1/EXOR/EX1_EXOR2_Tr_Cal.png, id=416, 500.62032pt x 389.20406pt>
-File: section/EX1/EXOR/EX1_EXOR2_Tr_Cal.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_Tr_Cal.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tr_Cal.png  used on input l
-ine 643.
-(pdftex.def)             Requested size: 241.84843pt x 188.0214pt.
+l.580 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.37}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.580 
+       <./section/EX1/EXOR/EX1_EXOR2_schematic.png> <./section/EX1/EXOR/EX1_EXO
+R2_symbol.png>]
+<section/EX1/EXOR/EX1_EXOR2_DCanalysis_schematic.png, id=424, 566.115pt x 477.2
+8313pt>
+File: section/EX1/EXOR/EX1_EXOR2_DCanalysis_schematic.png Graphic file (type pn
+g)
+<use section/EX1/EXOR/EX1_EXOR2_DCanalysis_schematic.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_DCanalysis_schematic.png  u
+sed on input line 599.
+(pdftex.def)             Requested size: 290.22107pt x 244.68565pt.
 
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 639--645
-[]$[]$ $[]$
+Overfull \hbox (21.26247pt too wide) in paragraph at lines 606--613
+ [][] 
  []
 
-<section/EX1/EXOR/EX1_EXOR2_Tf_Waveform.png, id=417, 602.25pt x 451.6875pt>
-File: section/EX1/EXOR/EX1_EXOR2_Tf_Waveform.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_Tf_Waveform.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tf_Waveform.png  used on in
-put line 650.
-(pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
-<section/EX1/EXOR/EX1_EXOR2_Tf_Cal.png, id=418, 542.77782pt x 406.51875pt>
-File: section/EX1/EXOR/EX1_EXOR2_Tf_Cal.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_Tf_Cal.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tf_Cal.png  used on input l
-ine 653.
-(pdftex.def)             Requested size: 241.84843pt x 181.13287pt.
-
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 649--655
-[]$[]$ $[]$
- []
-
+<section/EX1/EXOR/EX1_EXOR2_DCanalysis_vtc.png, id=425, 1437.87187pt x 490.0809
+3pt>
+File: section/EX1/EXOR/EX1_EXOR2_DCanalysis_vtc.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_DCanalysis_vtc.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_DCanalysis_vtc.png  used on
+ input line 618.
+(pdftex.def)             Requested size: 290.22107pt x 98.91928pt.
+<section/EX1/EXOR/EX1_EXOR2_Trans_schematic.png, id=426, 916.92563pt x 478.0359
+3pt>
+File: section/EX1/EXOR/EX1_EXOR2_Trans_schematic.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_Trans_schematic.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Trans_schematic.png  used o
+n input line 627.
+(pdftex.def)             Requested size: 290.22107pt x 151.30424pt.
 
 
 File: section/pic/bk_name_en.png Graphic file (type png)
 <use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 657.
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 630.
 (pdftex.def)             Requested size: 193.47578pt x 27.191pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2258,73 +2242,62 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 657.
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 630.
 (pdftex.def)             Requested size: 12.11928pt x 12.0pt.
 [21
-pdfTeX warning (ext4): destination with the same identifier (name{figure.37}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.657 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{table.16}) ha
+pdfTeX warning (ext4): destination with the same identifier (name{table.14}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.657 
+l.630 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.38}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.657 
-       <./section/EX1/EXOR/EX1_EXOR2_waveform.png> <./section/EX1/EXOR/EX1_EXOR
-2_Tr_Waveform.png> <./section/EX1/EXOR/EX1_EXOR2_Tr_Cal.png>]
-<section/EX1/EXOR/EX1_EXOR2_Tpdr_Waveform.png, id=427, 602.25pt x 451.6875pt>
-File: section/EX1/EXOR/EX1_EXOR2_Tpdr_Waveform.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_Tpdr_Waveform.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tpdr_Waveform.png  used on 
-input line 660.
+l.630 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.15}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.630 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.39}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.630 
+       <./section/EX1/EXOR/EX1_EXOR2_DCanalysis_schematic.png> <./section/EX1/E
+XOR/EX1_EXOR2_DCanalysis_vtc.png>]
+<section/EX1/EXOR/EX1_EXOR2_waveform.png, id=435, 1439.3775pt x 490.08093pt>
+File: section/EX1/EXOR/EX1_EXOR2_waveform.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_waveform.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_waveform.png  used on input
+ line 633.
+(pdftex.def)             Requested size: 290.22107pt x 98.81459pt.
+<section/EX1/EXOR/EX1_EXOR2_Tr_Waveform.png, id=436, 602.25pt x 451.6875pt>
+File: section/EX1/EXOR/EX1_EXOR2_Tr_Waveform.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_Tr_Waveform.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tr_Waveform.png  used on in
+put line 663.
 (pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
-<section/EX1/EXOR/EX1_EXOR2_Tpdr_Cal.png, id=428, 941.01563pt x 574.39594pt>
-File: section/EX1/EXOR/EX1_EXOR2_Tpdr_Cal.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_Tpdr_Cal.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tpdr_Cal.png  used on input
- line 663.
-(pdftex.def)             Requested size: 241.84843pt x 147.62155pt.
+<section/EX1/EXOR/EX1_EXOR2_Tr_Cal.png, id=437, 500.62032pt x 389.20406pt>
+File: section/EX1/EXOR/EX1_EXOR2_Tr_Cal.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_Tr_Cal.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tr_Cal.png  used on input l
+ine 666.
+(pdftex.def)             Requested size: 241.84843pt x 188.0214pt.
 
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 659--665
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 662--668
 []$[]$ $[]$
  []
 
-<section/EX1/EXOR/EX1_EXOR2_Tpdf_Waveform.png, id=429, 602.25pt x 451.6875pt>
-File: section/EX1/EXOR/EX1_EXOR2_Tpdf_Waveform.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_Tpdf_Waveform.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tpdf_Waveform.png  used on 
-input line 670.
-(pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
-<section/EX1/EXOR/EX1_EXOR2_Tpdf_Cal.png, id=430, 780.66656pt x 402.75468pt>
-File: section/EX1/EXOR/EX1_EXOR2_Tpdf_Cal.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_Tpdf_Cal.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tpdf_Cal.png  used on input
- line 673.
-(pdftex.def)             Requested size: 241.84843pt x 124.77277pt.
-
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 669--675
-[]$[]$ $[]$
- []
-
-<section/EX1/EXOR/EX1_EXOR2_layout.png, id=431, 599.23875pt x 396.7322pt>
-File: section/EX1/EXOR/EX1_EXOR2_layout.png Graphic file (type png)
-<use section/EX1/EXOR/EX1_EXOR2_layout.png>
-Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_layout.png  used on input l
-ine 682.
-(pdftex.def)             Requested size: 290.22107pt x 192.14851pt.
 
 
 File: section/pic/bk_name_en.png Graphic file (type png)
 <use section/pic/bk_name_en.png>
-Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 686.
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 670.
 (pdftex.def)             Requested size: 193.47578pt x 27.191pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2335,36 +2308,168 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
-Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 686.
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 670.
 (pdftex.def)             Requested size: 12.11928pt x 12.0pt.
 [22
-pdfTeX warning (ext4): destination with the same identifier (name{figure.39}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.686 
-      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.40}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.686 
+l.670 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.41}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.686 
-       <./section/EX1/EXOR/EX1_EXOR2_Tf_Waveform.png> <./section/EX1/EXOR/EX1_E
-XOR2_Tf_Cal.png> <./section/EX1/EXOR/EX1_EXOR2_Tpdr_Waveform.png> <./section/EX
-1/EXOR/EX1_EXOR2_Tpdr_Cal.png> <./section/EX1/EXOR/EX1_EXOR2_Tpdf_Waveform.png>
- <./section/EX1/EXOR/EX1_EXOR2_Tpdf_Cal.png>]
-<section/EX1/EXOR/EX1_EXOR2_LVS_check.png, id=442, 553.31718pt x 611.28375pt>
+l.670 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.16}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.670 
+       <./section/EX1/EXOR/EX1_EXOR2_Trans_schematic.png> <./section/EX1/EXOR/E
+X1_EXOR2_waveform.png>]
+<section/EX1/EXOR/EX1_EXOR2_Tf_Waveform.png, id=445, 602.25pt x 451.6875pt>
+File: section/EX1/EXOR/EX1_EXOR2_Tf_Waveform.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_Tf_Waveform.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tf_Waveform.png  used on in
+put line 673.
+(pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
+<section/EX1/EXOR/EX1_EXOR2_Tf_Cal.png, id=446, 542.77782pt x 406.51875pt>
+File: section/EX1/EXOR/EX1_EXOR2_Tf_Cal.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_Tf_Cal.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tf_Cal.png  used on input l
+ine 676.
+(pdftex.def)             Requested size: 241.84843pt x 181.13287pt.
+
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 672--678
+[]$[]$ $[]$
+ []
+
+<section/EX1/EXOR/EX1_EXOR2_Tpdr_Waveform.png, id=447, 1438.6247pt x 488.57532p
+t>
+File: section/EX1/EXOR/EX1_EXOR2_Tpdr_Waveform.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_Tpdr_Waveform.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tpdr_Waveform.png  used on 
+input line 683.
+(pdftex.def)             Requested size: 241.84843pt x 82.13228pt.
+<section/EX1/EXOR/EX1_EXOR2_Tpdr_Cal.png, id=448, 755.07094pt x 368.1253pt>
+File: section/EX1/EXOR/EX1_EXOR2_Tpdr_Cal.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_Tpdr_Cal.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tpdr_Cal.png  used on input
+ line 686.
+(pdftex.def)             Requested size: 241.84843pt x 117.90923pt.
+
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 682--688
+[]$[]$ $[]$
+ []
+
+<section/EX1/EXOR/EX1_EXOR2_Tpdf_Waveform.png, id=449, 602.25pt x 451.6875pt>
+File: section/EX1/EXOR/EX1_EXOR2_Tpdf_Waveform.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_Tpdf_Waveform.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tpdf_Waveform.png  used on 
+input line 693.
+(pdftex.def)             Requested size: 241.84843pt x 181.38858pt.
+<section/EX1/EXOR/EX1_EXOR2_Tpdf_Cal.png, id=450, 780.66656pt x 402.75468pt>
+File: section/EX1/EXOR/EX1_EXOR2_Tpdf_Cal.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_Tpdf_Cal.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Tpdf_Cal.png  used on input
+ line 696.
+(pdftex.def)             Requested size: 241.84843pt x 124.77277pt.
+
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 692--698
+[]$[]$ $[]$
+ []
+
+
+
+File: section/pic/bk_name_en.png Graphic file (type png)
+<use section/pic/bk_name_en.png>
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 700.
+(pdftex.def)             Requested size: 193.47578pt x 27.191pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 31.54103pt, for example:
+(fancyhdr)                \setlength{\headheight}{31.54103pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-19.54103pt}.
+
+File: section/pic/logo_DEE.png Graphic file (type png)
+<use section/pic/logo_DEE.png>
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 700.
+(pdftex.def)             Requested size: 12.11928pt x 12.0pt.
+[23
+pdfTeX warning (ext4): destination with the same identifier (name{figure.42}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.700 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.43}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.700 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.44}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.700 
+       <./section/EX1/EXOR/EX1_EXOR2_Tr_Waveform.png> <./section/EX1/EXOR/EX1_E
+XOR2_Tr_Cal.png> <./section/EX1/EXOR/EX1_EXOR2_Tf_Waveform.png> <./section/EX1/
+EXOR/EX1_EXOR2_Tf_Cal.png> <./section/EX1/EXOR/EX1_EXOR2_Tpdr_Waveform.png> <./
+section/EX1/EXOR/EX1_EXOR2_Tpdr_Cal.png>]
+<section/EX1/EXOR/EX1_EXOR2_Power.png, id=461, 484.05844pt x 321.45094pt>
+File: section/EX1/EXOR/EX1_EXOR2_Power.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_Power.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_Power.png  used on input li
+ne 703.
+(pdftex.def)             Requested size: 338.58632pt x 224.85716pt.
+<section/EX1/EXOR/EX1_EXOR2_layout.png, id=462, 599.23875pt x 396.7322pt>
+File: section/EX1/EXOR/EX1_EXOR2_layout.png Graphic file (type png)
+<use section/EX1/EXOR/EX1_EXOR2_layout.png>
+Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_layout.png  used on input l
+ine 711.
+(pdftex.def)             Requested size: 338.58632pt x 224.1662pt.
+
+
+File: section/pic/bk_name_en.png Graphic file (type png)
+<use section/pic/bk_name_en.png>
+Package pdftex.def Info: section/pic/bk_name_en.png  used on input line 715.
+(pdftex.def)             Requested size: 193.47578pt x 27.191pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 31.54103pt, for example:
+(fancyhdr)                \setlength{\headheight}{31.54103pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-19.54103pt}.
+
+File: section/pic/logo_DEE.png Graphic file (type png)
+<use section/pic/logo_DEE.png>
+Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 715.
+(pdftex.def)             Requested size: 12.11928pt x 12.0pt.
+[24
+pdfTeX warning (ext4): destination with the same identifier (name{figure.45}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.715 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.46}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.715 
+       <./section/EX1/EXOR/EX1_EXOR2_Tpdf_Waveform.png> <./section/EX1/EXOR/EX1
+_EXOR2_Tpdf_Cal.png> <./section/EX1/EXOR/EX1_EXOR2_Power.png>]
+<section/EX1/EXOR/EX1_EXOR2_LVS_check.png, id=470, 553.31718pt x 611.28375pt>
 File: section/EX1/EXOR/EX1_EXOR2_LVS_check.png Graphic file (type png)
 <use section/EX1/EXOR/EX1_EXOR2_LVS_check.png>
 Package pdftex.def Info: section/EX1/EXOR/EX1_EXOR2_LVS_check.png  used on inpu
-t line 689.
-(pdftex.def)             Requested size: 290.22107pt x 320.62097pt.
+t line 718.
+(pdftex.def)             Requested size: 338.58632pt x 374.0578pt.
 )
 
 File: section/pic/bk_name_en.png Graphic file (type png)
@@ -2382,14 +2487,14 @@ File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
 Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 93.
 (pdftex.def)             Requested size: 12.11928pt x 12.0pt.
-[23
-pdfTeX warning (ext4): destination with the same identifier (name{figure.42}) h
+[25
+pdfTeX warning (ext4): destination with the same identifier (name{figure.47}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.93 	\include{section/EX1_report.tex}
                                       `
-pdfTeX warning (ext4): destination with the same identifier (name{figure.43}) h
+pdfTeX warning (ext4): destination with the same identifier (name{figure.48}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -2412,7 +2517,7 @@ File: section/pic/logo_DEE.png Graphic file (type png)
 <use section/pic/logo_DEE.png>
 Package pdftex.def Info: section/pic/logo_DEE.png  used on input line 94.
 (pdftex.def)             Requested size: 12.11928pt x 12.0pt.
-[24
+[26
 
 
 ] (Lab2_report.aux (section/bia.aux) (section/EX1_report.aux))
@@ -2429,10 +2534,10 @@ Package rerunfilecheck Info: File `Lab2_report.out' has not changed.
 (rerunfilecheck)             Checksum: F17E1C968858DFC6280C048E4B4EE37B;3175.
  ) 
 Here is how much of TeX's memory you used:
- 24608 strings out of 473530
- 464300 string characters out of 5714794
- 834494 words of memory out of 5000000
- 47279 multiletter control sequences out of 15000+600000
+ 24650 strings out of 473530
+ 465894 string characters out of 5714794
+ 834496 words of memory out of 5000000
+ 47314 multiletter control sequences out of 15000+600000
  583071 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,15n,101p,550b,764s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2449,9 +2554,9 @@ l/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx8.pfb><C:/Users/nguye/AppData/Local
 Programs/MiKTeX/fonts/type1/vntex/vnr/vnr17.pfb><C:/Users/nguye/AppData/Local/P
 rograms/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb><C:/Users/nguye/AppData/Local/P
 rograms/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on Lab2_report.pdf (24 pages, 4230179 bytes).
+Output written on Lab2_report.pdf (26 pages, 4625541 bytes).
 PDF statistics:
- 527 PDF objects out of 1000 (max. 8388607)
- 107 named destinations out of 1000 (max. 500000)
- 496 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 558 PDF objects out of 1000 (max. 8388607)
+ 114 named destinations out of 1000 (max. 500000)
+ 521 words of extra memory for PDF output out of 10000 (max. 10000000)
 

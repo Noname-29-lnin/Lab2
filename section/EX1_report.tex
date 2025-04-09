@@ -115,9 +115,9 @@ Use \textbf{ADE-L} to simulate the DC response of an \textit{INV gate}. Apply an
 		\hline
 		$t_{p}$ - Average propagation delay ($50\% - 50\%$) & $10.457\times10^{-12}$\\
 		\hline
-		Dynamic Power & $0$\\
+		Dynamic Power & $712.53\times10^{-9} W$\\
 		\hline
-		Static Power & $0$\\
+		Static Power & $9.07\times10^{-9} W$\\
 		\hline
 	\end{tabular}
 	\caption{Requirements for measuring INV.}
@@ -162,6 +162,17 @@ Use \textbf{ADE-L} to simulate the DC response of an \textit{INV gate}. Apply an
 		\includegraphics[width=\linewidth]{section/EX1/INV/EX1_INV_Tpdf_Cal.png}
 	\end{minipage}
 	\caption{Measurement Time falling propagation INV.}
+\end{figure}
+
+\begin{figure}[H]
+	\begin{minipage}{0.5\linewidth}
+		\includegraphics[width=\linewidth]{section/EX1/INV/EX1_INV_Power_Static.png}
+		\caption{Measurement Power Static INV.}
+	\end{minipage}
+	\begin{minipage}{0.5\linewidth}
+		\includegraphics[width=\linewidth]{section/EX1/INV/EX1_INV_Power_Total.png}
+		\caption{Measurement Power Total INV.}
+	\end{minipage}
 \end{figure}
 
 \subsubsection{Layout of INV}
@@ -292,7 +303,7 @@ Use \textbf{ADE-L} to simulate the DC response of an \textit{NAND2 gate}. Apply 
 		\hline
 		$t_{p}$ - Average propagation delay ($50\% - 50\%$) & $14.35\times10^{-12}$\\
 		\hline
-		Power consumption & $0$\\
+		Power consumption & $468.5\times10^{-9} W$\\
 		\hline
 	\end{tabular}
 	\caption{Requirements for measuring NAND2.}
@@ -337,6 +348,12 @@ Use \textbf{ADE-L} to simulate the DC response of an \textit{NAND2 gate}. Apply 
 		\includegraphics[width=\linewidth]{section/EX1/NAND/EX1_NAND2_Tpdf_Cal.png}
 	\end{minipage}
 	\caption{Measurement Time falling propagation NAND2.}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.7\linewidth]{section/EX1/NAND/EX1_NAND2_Power.png}
+	\caption{Measurement Power consumption NAND2.}
 \end{figure}
 
 \subsubsection{Layout of NAND2}
@@ -459,7 +476,7 @@ Use \textbf{ADE-L} to simulate the DC response of an \textit{NOR2 gate}. Apply a
 		\hline
 		$t_{p}$ - Average propagation delay ($50\% - 50\%$) & $14.35\times10^{-12}$\\
 		\hline
-		Power consumption & $0$\\
+		Power consumption & $875.6\times10^{-9} W$\\
 		\hline
 	\end{tabular}
 	\caption{Requirements for measuring NOR2.}
@@ -504,6 +521,12 @@ Use \textbf{ADE-L} to simulate the DC response of an \textit{NOR2 gate}. Apply a
 		\includegraphics[width=\linewidth]{section/EX1/NOR/EX1_NOR2_Tpdf_Cal.png}
 	\end{minipage}
 	\caption{Measurement Time falling propagation NOR2.}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.7\linewidth]{section/EX1/NOR/EX1_NOR2_Power.png}
+	\caption{Measurement Power consumption NOR2.}
 \end{figure}
 
 \subsubsection{Layout of NOR2}
@@ -622,13 +645,13 @@ Use \textbf{ADE-L} to simulate the DC response of an \textit{EXOR2 gate}. Apply 
 		\hline
 		$t_{fall}$  Falling time ($90\% - 10\%$) & $39.73\times10^{-12}$\\
 		\hline
-		$t_{pdr}$ - Rising propagation delay ($90\% - 50\%$) & $\times10^{-12}$\\
+		$t_{pdr}$ - Rising propagation delay ($90\% - 50\%$) & $27.99\times10^{-12}$\\
 		\hline
 		$t_{pdf}$ - Falling propagation delay ($10\% - 50\%$) & $19.67\times10^{-12}$\\
 		\hline
-		$t_{p}$ - Average propagation delay ($50\% - 50\%$) & $\times10^{-12}$\\
+		$t_{p}$ - Average propagation delay ($50\% - 50\%$) & $23.83\times10^{-12}$\\
 		\hline
-		Power consumption & $0$\\
+		Power consumption & $2.053\times10^{-6} W$\\
 		\hline
 	\end{tabular}
 	\caption{Requirements for measuring EXOR2.}
@@ -673,6 +696,12 @@ Use \textbf{ADE-L} to simulate the DC response of an \textit{EXOR2 gate}. Apply 
 		\includegraphics[width=\linewidth]{section/EX1/EXOR/EX1_EXOR2_Tpdf_Cal.png}
 	\end{minipage}
 	\caption{Measurement Time falling propagation EXOR2.}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.7\linewidth]{section/EX1/EXOR/EX1_EXOR2_Power.png}
+	\caption{Measurement Power consumption EXOR2.}
 \end{figure}
 
 \subsubsection{Layout of EXOR2}

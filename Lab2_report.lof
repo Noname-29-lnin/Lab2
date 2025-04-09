@@ -9,36 +9,41 @@
 \contentsline {figure}{\numberline {8}{\ignorespaces Measurement Time falling INV.}}{7}{figure.8}%
 \contentsline {figure}{\numberline {9}{\ignorespaces Measurement Time rising propagation INV.}}{7}{figure.9}%
 \contentsline {figure}{\numberline {10}{\ignorespaces Measurement Time falling propagation INV.}}{8}{figure.10}%
-\contentsline {figure}{\numberline {11}{\ignorespaces Layout for INV.}}{8}{figure.11}%
-\contentsline {figure}{\numberline {12}{\ignorespaces The schematic of a NAND2.}}{9}{figure.12}%
-\contentsline {figure}{\numberline {13}{\ignorespaces The symbol of NAND2.}}{9}{figure.13}%
-\contentsline {figure}{\numberline {14}{\ignorespaces The circuit test NAND2.}}{10}{figure.14}%
-\contentsline {figure}{\numberline {15}{\ignorespaces Voltage transfer curve (VTC) of NAND2.}}{10}{figure.15}%
-\contentsline {figure}{\numberline {16}{\ignorespaces The Circuit test NAND2.}}{11}{figure.16}%
-\contentsline {figure}{\numberline {17}{\ignorespaces The waveform NAND2.}}{11}{figure.17}%
-\contentsline {figure}{\numberline {18}{\ignorespaces Measurement Time rising NAND2.}}{12}{figure.18}%
-\contentsline {figure}{\numberline {19}{\ignorespaces Measurement Time falling NAND2.}}{12}{figure.19}%
-\contentsline {figure}{\numberline {20}{\ignorespaces Measurement Time rising propagation NAND2.}}{12}{figure.20}%
-\contentsline {figure}{\numberline {21}{\ignorespaces Measurement Time falling propagation NAND2.}}{13}{figure.21}%
-\contentsline {figure}{\numberline {22}{\ignorespaces The schematic of a NOR2.}}{14}{figure.22}%
-\contentsline {figure}{\numberline {23}{\ignorespaces The symbol of NAND2.}}{14}{figure.23}%
-\contentsline {figure}{\numberline {24}{\ignorespaces The circuit test NOR2.}}{15}{figure.24}%
-\contentsline {figure}{\numberline {25}{\ignorespaces Voltage transfer curve (VTC) of NOR2.}}{15}{figure.25}%
-\contentsline {figure}{\numberline {26}{\ignorespaces The Circuit test NOR2.}}{16}{figure.26}%
-\contentsline {figure}{\numberline {27}{\ignorespaces The waveform NOR2.}}{16}{figure.27}%
-\contentsline {figure}{\numberline {28}{\ignorespaces Measurement Time rising NOR2.}}{17}{figure.28}%
-\contentsline {figure}{\numberline {29}{\ignorespaces Measurement Time falling NOR2.}}{17}{figure.29}%
-\contentsline {figure}{\numberline {30}{\ignorespaces Measurement Time rising propagation NOR2.}}{17}{figure.30}%
-\contentsline {figure}{\numberline {31}{\ignorespaces Measurement Time falling propagation NOR2.}}{18}{figure.31}%
-\contentsline {figure}{\numberline {32}{\ignorespaces The schematic of a EXOR2.}}{18}{figure.32}%
-\contentsline {figure}{\numberline {33}{\ignorespaces The symbol of EXOR2.}}{19}{figure.33}%
-\contentsline {figure}{\numberline {34}{\ignorespaces The circuit test EXOR2.}}{19}{figure.34}%
-\contentsline {figure}{\numberline {35}{\ignorespaces Voltage transfer curve (VTC) of EXOR2.}}{20}{figure.35}%
-\contentsline {figure}{\numberline {36}{\ignorespaces The Circuit test EXOR2.}}{20}{figure.36}%
-\contentsline {figure}{\numberline {37}{\ignorespaces The waveform EXOR2.}}{21}{figure.37}%
-\contentsline {figure}{\numberline {38}{\ignorespaces Measurement Time rising EXOR2.}}{21}{figure.38}%
-\contentsline {figure}{\numberline {39}{\ignorespaces Measurement Time falling EXOR2.}}{22}{figure.39}%
-\contentsline {figure}{\numberline {40}{\ignorespaces Measurement Time rising propagation EXOR2.}}{22}{figure.40}%
-\contentsline {figure}{\numberline {41}{\ignorespaces Measurement Time falling propagation EXOR2.}}{22}{figure.41}%
-\contentsline {figure}{\numberline {42}{\ignorespaces Layout for EXOR2.}}{23}{figure.42}%
-\contentsline {figure}{\numberline {43}{\ignorespaces Check LVS for EXOR2.}}{23}{figure.43}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Measurement Power Static INV.}}{8}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Measurement Power Total INV.}}{8}{figure.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Layout for INV.}}{9}{figure.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces The schematic of a NAND2.}}{10}{figure.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces The symbol of NAND2.}}{10}{figure.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces The circuit test NAND2.}}{11}{figure.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Voltage transfer curve (VTC) of NAND2.}}{11}{figure.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces The Circuit test NAND2.}}{11}{figure.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces The waveform NAND2.}}{12}{figure.19}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Measurement Time rising NAND2.}}{12}{figure.20}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Measurement Time falling NAND2.}}{13}{figure.21}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Measurement Time rising propagation NAND2.}}{13}{figure.22}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Measurement Time falling propagation NAND2.}}{13}{figure.23}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Measurement Power consumption NAND2.}}{14}{figure.24}%
+\contentsline {figure}{\numberline {25}{\ignorespaces The schematic of a NOR2.}}{15}{figure.25}%
+\contentsline {figure}{\numberline {26}{\ignorespaces The symbol of NAND2.}}{15}{figure.26}%
+\contentsline {figure}{\numberline {27}{\ignorespaces The circuit test NOR2.}}{16}{figure.27}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Voltage transfer curve (VTC) of NOR2.}}{16}{figure.28}%
+\contentsline {figure}{\numberline {29}{\ignorespaces The Circuit test NOR2.}}{17}{figure.29}%
+\contentsline {figure}{\numberline {30}{\ignorespaces The waveform NOR2.}}{17}{figure.30}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Measurement Time rising NOR2.}}{18}{figure.31}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Measurement Time falling NOR2.}}{18}{figure.32}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Measurement Time rising propagation NOR2.}}{18}{figure.33}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Measurement Time falling propagation NOR2.}}{19}{figure.34}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Measurement Power consumption NOR2.}}{19}{figure.35}%
+\contentsline {figure}{\numberline {36}{\ignorespaces The schematic of a EXOR2.}}{20}{figure.36}%
+\contentsline {figure}{\numberline {37}{\ignorespaces The symbol of EXOR2.}}{20}{figure.37}%
+\contentsline {figure}{\numberline {38}{\ignorespaces The circuit test EXOR2.}}{21}{figure.38}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Voltage transfer curve (VTC) of EXOR2.}}{21}{figure.39}%
+\contentsline {figure}{\numberline {40}{\ignorespaces The Circuit test EXOR2.}}{22}{figure.40}%
+\contentsline {figure}{\numberline {41}{\ignorespaces The waveform EXOR2.}}{22}{figure.41}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Measurement Time rising EXOR2.}}{23}{figure.42}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Measurement Time falling EXOR2.}}{23}{figure.43}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Measurement Time rising propagation EXOR2.}}{23}{figure.44}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Measurement Time falling propagation EXOR2.}}{24}{figure.45}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Measurement Power consumption EXOR2.}}{24}{figure.46}%
+\contentsline {figure}{\numberline {47}{\ignorespaces Layout for EXOR2.}}{25}{figure.47}%
+\contentsline {figure}{\numberline {48}{\ignorespaces Check LVS for EXOR2.}}{25}{figure.48}%
