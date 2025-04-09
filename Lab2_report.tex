@@ -1,0 +1,94 @@
+\documentclass[a4paper, 12pt]{article}
+%\usepackage[utf8]{inputenc}
+%\usepackage[vietnamese,english]{babel}
+\usepackage[utf8]{vietnam}
+\usepackage[margin = 2cm]{geometry}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{nameref}
+\usepackage{babel}
+\usepackage{hyperref}
+\usepackage[pages=some]{background}
+%\usepackage{graphics}
+\usepackage{float}
+\usepackage{enumerate}
+\usepackage[]{enumitem}
+
+\usepackage{multicol}
+\usepackage{multirow}
+% Set 1.5line spacing for the whole document
+\usepackage{setspace}
+\usepackage{array}
+\onehalfspacing
+
+% Cấu hình header và footer
+\usepackage[]{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\texttt{LABORATORY 2 \\ DIGITAL LOGIC COMPONENTS}}
+\fancyhead[L]{\includegraphics[width=0.4\linewidth]{section/pic/bk_name_en.png}}
+
+\fancyfoot[L]{
+	\includegraphics[height=12pt]{section/pic/logo_DEE.png} \hspace{4pt}
+	\textbf{Department of Electronics}\\
+	\textit{EE3117/EE4451 – Digital IC Design Laboratory}
+}
+\fancyfoot[R]{Page|\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Cấu hình background
+\backgroundsetup{
+	scale=1,
+	color=black, 
+	opacity=0.4,
+	angle=0,
+	contents={
+		\includegraphics[width=\paperwidth, height=\paperheight]{section/pic/bia.jpg}
+	}
+}
+
+% Thêm câu lệnh tạo Item
+%\newcommand{\itemmini}[1]{%
+%	\noindent \includegraphics[h]{imagefile} #1
+%}
+
+% Thêm func nhận xét
+\newcommand{\comment}[1]{
+	\noindent \textbf{Comment:} #1
+}
+
+% Thêm func trả lời câu hỏi
+\newcounter{questionnumber}
+\newenvironment{question}{
+	\stepcounter{questionnumber}
+	\textbf{Question Experiment \thequestionnumber}
+	\begin{enumerate}[leftmargin=*, label = Question \arabic*. ]
+	}{
+	\end{enumerate}
+}
+
+% Môi trường cho câu trả lời
+\newenvironment{answer}{
+	\vspace{5pt}
+	\textbf{Answer:} 
+	\begin{itshape}
+	}{
+	\end{itshape}
+	\vspace{10pt}
+}
+
+% discussion 
+\newenvironment{discussion}{
+	\textbf{Discussion}
+	\begin{itemize}[label = -]
+	}{\end{itemize}}
+
+
+\begin{document}
+	\include{section/bia.tex}
+	\include{section/EX1_report.tex}`
+\end{document}
